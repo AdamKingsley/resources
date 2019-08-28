@@ -1,2 +1,2 @@
 # resources
-experience as a resource strorage service
+experience as a resource storage service
